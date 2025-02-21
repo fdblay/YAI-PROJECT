@@ -15,7 +15,7 @@ const handleShowNavbar = () => {
     <nav className='navbar'>
       <div className='container'>
         <div className='navbar-brand'>
-          <Link to="/" id='logo'>Brand-Name</Link>
+          <Link to="/" id='logo'>Fatimush-Natural Spices</Link>
         </div>
         <div className='menu-icon' onClick={handleShowNavbar}>
           <BiMenu />
